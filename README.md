@@ -1,4 +1,4 @@
-P![Project Demo](frontend/public/ProjectDemo.png)
+![Project Demo](frontend/public/ProjectDemo.png)
 
 --
 
